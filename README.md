@@ -21,9 +21,8 @@ Completed Orders by user
 
 ## how to setup and connect to the database
     
-    -- First You Should Create Two Databases [dev, test]
-    -- You Can Follow .env File to rename them
-
+    -- Should Create Two Databases [dev, test]
+    
 ## what ports the backend and database are running on
 
     -- Database Port is : 5432
